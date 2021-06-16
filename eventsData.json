@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "event_type": "Sitcom",
+      "event_name": "F.R.I.E.N.D.S.",
+      "release_year": "1994",
+      "charges": "1000"
+    },
+    {
+      "id": 2,
+      "event_type": "Sitcom",
+      "event_name": "How I Met Your Mother",
+      "release_year": "2006",
+      "charges": "700"
+    },
+    {
+      "id": 3,
+      "event_type": "Movie",
+      "event_name": "Titanic",
+      "release_year": "1997",
+      "charges": "2000"
+    },
+    {
+      "id": 4,
+      "event_type": "Movie",
+      "event_name": "Family Man",
+      "release_year": "2020",
+      "charges": "1500"
+    },
+    {
+      "id": 5,
+      "event_type": "Movie",
+      "event_name": "Walking Dead",
+      "release_year": "2021",
+      "charges": "700"
+    },
+    {
+      "id": 6,
+      "event_type": "Series",
+      "event_name": "Big Bang Theory",
+      "release_year": "2008",
+      "charges": "1500"
+    }
+  ]
+}
