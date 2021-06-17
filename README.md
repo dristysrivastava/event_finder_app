@@ -31,6 +31,8 @@ You must use the following tools:
 
 ● Bootstrap: To accelerate the development
 
+**Following requirements should be met:**
+
 ● The app should be responsive.
 
 ● There should only be one source of truth for state management. 
