@@ -32,3 +32,7 @@ You must use the following tools:
 ● Bootstrap: To accelerate the development
 
 ● The app should be responsive.
+
+● There should only be one source of truth for state management. 
+
+● The app should have functionalities for users to create, view, and delete events.
